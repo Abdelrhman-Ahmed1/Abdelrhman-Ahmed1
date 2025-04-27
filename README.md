@@ -1,5 +1,12 @@
-<h1>Hi 👋, I'm Abdelrhman Ahmed</h1>
-<h3>A passionate Frontend Developer from Egypt 🇪🇬</h3>
+<h1>Hi, I'm Abdelrhman Ahmed 👋</h1>
+<h3></h3>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
@@ -21,20 +28,10 @@
 
 <h2>📊 GitHub Stats:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  
-</p>
-<p align="center">
-  
 </p>
 
 ---
 
-<h2>🏆 GitHub Trophies:</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-ahmed1&theme=darkhub" alt="GitHub Trophies" />
-</p>
+
