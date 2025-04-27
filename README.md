@@ -1,15 +1,16 @@
 <h1>Hi 👋! I'm Abdelrhman Ahmed</h1>
 
----
-
-<h2>👩‍💻 About Me:</h2>
 
 <h4>I'm a Software Engineer</h4>
 <h4>Student @ FCAI-CU 2023-2027</h4>
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</div>
 
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a>
@@ -29,11 +30,7 @@
 
 <h2>📊 My GitHub Stats:</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
+
 
 ---
 
