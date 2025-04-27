@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm Abdelrhman Ahmed</h1>
-<h3></h3>
+
+---
+
+<h3>I'm a Software Engineer</h3>
+<h3>Student @ FCAI-CU 2023-2027</h3>
 
 ---
 
