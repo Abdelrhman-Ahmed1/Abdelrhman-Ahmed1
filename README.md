@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Abdelrhman Ahmed</h1>
 
----
+
 
 <h4>I'm a Software Engineer</h4>
 <h4>Student @ FCAI-CU 2023-2027</h4>
@@ -8,6 +8,7 @@
 ---
 
 <h2>📊 GitHub Stats:</h2>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,7 @@
 ---
 
 <h2>🚀 Languages and Tools:</h2>
+
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
