@@ -20,14 +20,16 @@
 ---
 
 <h2>📊 GitHub Stats:</h2>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  
+</p>
+<p align="center">
+  
 </p>
 
 ---
