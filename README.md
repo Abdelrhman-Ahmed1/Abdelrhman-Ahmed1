@@ -2,8 +2,8 @@
 
 ---
 
-<h5>I'm a Software Engineer</h5>
-<h5>Student @ FCAI-CU 2023-2027</h5>
+<h4>I'm a Software Engineer</h4>
+<h4>Student @ FCAI-CU 2023-2027</h4>
 
 ---
 
