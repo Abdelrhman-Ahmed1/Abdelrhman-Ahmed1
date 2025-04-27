@@ -7,6 +7,7 @@
 
 ---
 
+<h2>📊 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
