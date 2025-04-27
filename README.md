@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" style="height=100px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="height=100px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="100px" />
 </p>
 
 ---
