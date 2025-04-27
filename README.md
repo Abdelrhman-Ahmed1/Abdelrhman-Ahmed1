@@ -9,17 +9,7 @@
 
 ---
 
-<h2>📊 My GitHub Stats:</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</div>
-
----
-
-<h2>🚀 Languages and Tools:</h2>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a>
@@ -34,6 +24,22 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="50" height="50"/></a>
   
 </p>
+
+---
+
+<h2>📊 My GitHub Stats:</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed1&theme=radical" alt="GitHub Streak" height="180px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</div>
+
+---
+
+<h2>🚀 Languages and Tools:</h2>
+
+
 
 ---
 
