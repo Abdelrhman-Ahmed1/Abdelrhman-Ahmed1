@@ -1,6 +1,8 @@
-<h1>Hi 👋, I'm Abdelrhman Ahmed</h1>
+<h1>Hi 👋! I'm Abdelrhman Ahmed</h1>
 
+---
 
+<h2>👩‍💻 About Me:</h2>
 
 <h4>I'm a Software Engineer</h4>
 <h4>Student @ FCAI-CU 2023-2027</h4>
