@@ -42,7 +42,8 @@
 
 ---
 
-<h2>My Projects:</h2>
+<h2>My Certificates:</h2>
+
 
 
 
