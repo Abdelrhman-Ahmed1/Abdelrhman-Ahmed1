@@ -46,7 +46,7 @@
 <table border="1" cellspacing="0" cellpadding="10">
   <thead>
     <tr>
-  <img src="https://github.com/Abdelrhman-Ahmed1/Abdelrhman-Ahmed1/blob/e25895d7faba876320554e0d24161c6131f11388/_HCIA-Datacom%20V1.0%20Course_page-0001.jpg" alt="GitHub Streak" height="250px"/> HCIA-Datacom Certification from Huawei ICT Academy-Egypt
+  <img src="https://github.com/Abdelrhman-Ahmed1/Abdelrhman-Ahmed1/blob/e25895d7faba876320554e0d24161c6131f11388/_HCIA-Datacom%20V1.0%20Course_page-0001.jpg" alt="HCIA-Datacom Certification" height="250px"/> HCIA-Datacom Certification from Huawei ICT Academy-Egypt
     </tr>
   </thead>
 </table>
