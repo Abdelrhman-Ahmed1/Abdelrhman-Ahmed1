@@ -44,7 +44,7 @@
 
 <h2>My Certificates:</h2>
 <div align="center">
-  <img src="https://github.com/Abdelrhman-Ahmed1/Abdelrhman-Ahmed1/blob/e25895d7faba876320554e0d24161c6131f11388/_HCIA-Datacom%20V1.0%20Course_page-0001.jpg" alt="GitHub Streak" height="300px"/>
+  <img src="https://github.com/Abdelrhman-Ahmed1/Abdelrhman-Ahmed1/blob/e25895d7faba876320554e0d24161c6131f11388/_HCIA-Datacom%20V1.0%20Course_page-0001.jpg" alt="GitHub Streak" height="250px"/>
   <p>HCIA-Datacom Certification from Huawei ICT Academy-Egypt</p>
 </div>
 
