@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Abdelrhman Ahmed</h1>
 
 
-<h3>I'm a Software Developer | Passionate about Cybersecurity Engineer Beginner</h3>
+<h3>I'm a Software Developer | Passionate about Cybersecurity Engineering </h3>
 <h4>I'm currently a student @ FCAI-CU 2023-2027</h4>
 
 ---
